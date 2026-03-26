@@ -15,3 +15,5 @@ simpleDemo/src/.DS_Store
 simpleDemo/libs/.DS_Store
 
 *.log
+
+**/*.bak_codex
