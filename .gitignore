@@ -1,0 +1,17 @@
+.DS_Store
+.gradle/
+.idea/
+build/
+local.properties
+*.iml
+
+simpleDemo/build/
+simpleDemo/release/
+simpleDemo/app.keystore
+simpleDemo/test.jks
+simpleDemo/*.iml
+simpleDemo/*.bak_codex
+simpleDemo/src/.DS_Store
+simpleDemo/libs/.DS_Store
+
+*.log
